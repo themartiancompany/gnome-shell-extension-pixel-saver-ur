@@ -19,7 +19,7 @@
 [comment]: <> (See the GNU Affero General Public License)
 [comment]: <> (for more details.)
 
-# `gnome-shell-extenevm-contracts-tools`
+# `gnome-shell-extension-pixel-saver`
 
 universal recipe for
 [user repo](
